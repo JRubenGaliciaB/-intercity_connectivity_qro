@@ -1,6 +1,6 @@
 # Intercity Connectivity and Innovation - Querétaro
 
-(subnational_network.png)
+![Intercity Networks and Innovation](subnational_network.png)
 
 [TAKE ME TO THE MAP!]
 [TAKE ME TO THE DATA!](https://github.com/JRubenGaliciaB/-intercity_connectivity_qro/tree/main/Data)
